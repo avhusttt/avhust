@@ -4,3 +4,5 @@
 4 stroka
 5 stroka
 rebase
+master try conflickt 
+123
